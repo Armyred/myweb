@@ -1,0 +1,32 @@
+.menu li
+{
+	float: left;
+	margin-left: 90px;	
+	list-style-type: none;
+}
+.img{
+	border-radius: 170px;
+}
+.about{
+	font-size: 80px;
+	margin-left:500px;
+	text-shadow: 3px 3px red;
+}
+.div{
+	border: 2px solid yellow;
+	border-radius: 25px;
+	box-shadow:10px 10px 30px black inset;
+	height: 250px;
+	width: 300px;
+}
+.help{
+	border: 3px dotted red;
+	box-shadow:10px 10px 10px yellow;
+	text-shadow: 3px 3px red;
+}
+.table{
+	background-color: lightpink;
+}
+.rad{
+	border-radius: 15px;
+}
